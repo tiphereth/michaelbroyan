@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Jekyll Incorporated Features
+title: Jekyll Incorporated Features(test)
 subtitle: "What's in the box"
 cover_image: blog-cover.jpg
 
